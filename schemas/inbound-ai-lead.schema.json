@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://xmacna.ai/schemas/inbound-ai-lead.schema.json",
+  "title": "Inbound AI Lead",
+  "description": "Schema generico para leads qualificados por agente de IA, Funcionario Digital ou diagnostico inbound.",
+  "type": "object",
+  "required": [
+    "source",
+    "contact",
+    "qualification",
+    "consent",
+    "next_step"
+  ],
+  "properties": {
+    "source": {
+      "type": "object",
+      "required": ["channel", "url"],
+      "properties": {
+        "channel": {
+          "type": "string",
+          "examples": ["diagnostico", "whatsapp", "landing_page", "referral"]
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "examples": ["https://xmacna.ai/diagnostico"]
+        },
+        "utm_source": { "type": "string" },
+        "utm_medium": { "type": "string" },
+        "utm_campaign": { "type": "string" }
+      }
+    },
+    "contact": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "company": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "phone": { "type": "string" },
+        "role": { "type": "string" }
+      }
+    },
+    "qualification": {
+      "type": "object",
+      "properties": {
+        "segment": { "type": "string" },
+        "primary_pain": { "type": "string" },
+        "urgency": {
+          "type": "string",
+          "enum": ["low", "medium", "high"]
+        },
+        "fit_score": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "summary": { "type": "string" }
+      }
+    },
+    "consent": {
+      "type": "object",
+      "required": ["contact_allowed"],
+      "properties": {
+        "contact_allowed": { "type": "boolean" },
+        "consent_text": { "type": "string" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      }
+    },
+    "next_step": {
+      "type": "object",
+      "properties": {
+        "recommended_action": {
+          "type": "string",
+          "examples": ["diagnostico", "whatsapp_followup", "sales_meeting", "nurture"]
+        },
+        "owner": { "type": "string" },
+        "due_at": { "type": "string", "format": "date-time" }
+      }
+    }
+  }
+}
+
