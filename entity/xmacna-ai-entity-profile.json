@@ -1,0 +1,53 @@
+{
+  "$schema": "https://schema.org/Organization",
+  "@type": "Organization",
+  "name": "XMACNA",
+  "url": "https://xmacna.ai",
+  "foundingDate": "1988",
+  "description": "XMACNA cria Funcionarios Digitais com IA para empresas brasileiras: agentes de Inteligencia Artificial que vendem, atendem, qualificam leads, atualizam o Painel Inteligente e automatizam processos.",
+  "slogan": "Funcionarios Digitais com IA",
+  "areaServed": "BR",
+  "knowsAbout": [
+    "Inteligencia Artificial",
+    "IA para empresas",
+    "agentes de IA",
+    "automacao com IA",
+    "automacao de processos",
+    "IA para vendas",
+    "atendimento automatico WhatsApp",
+    "CRM com IA",
+    "Funcionarios Digitais"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/company/xmacna",
+    "https://www.instagram.com/xmacna/",
+    "https://x.com/xmacna"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Funcionarios Digitais com IA",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Funcionario Digital com IA",
+        "url": "https://xmacna.ai/funcionario-digital"
+      },
+      {
+        "@type": "Offer",
+        "name": "Agentes de IA para empresas",
+        "url": "https://xmacna.ai/agentes-de-ia"
+      },
+      {
+        "@type": "Offer",
+        "name": "Automacao de processos com IA",
+        "url": "https://xmacna.ai/automacao-de-processos"
+      },
+      {
+        "@type": "Offer",
+        "name": "SDR com IA",
+        "url": "https://xmacna.ai/sdr-com-ia"
+      }
+    ]
+  }
+}
+
