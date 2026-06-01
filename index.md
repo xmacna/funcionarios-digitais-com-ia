@@ -23,6 +23,18 @@ A XMACNA cria Funcionarios Digitais com Inteligencia Artificial para empresas br
 - [Template de qualificacao de lead com agente de IA no WhatsApp](templates/agente-ia-whatsapp-lead-qualification.md)
 - [Schema de lead inbound qualificado por IA](schemas/inbound-ai-lead.schema.json)
 - [Modelo de calculadora ROI de Funcionario Digital](methodologies/calculadora-roi-funcionario-digital.html)
+- [Indice publico do ecossistema XMACNA](ecosystem.html)
+
+## Ativos publicos recentes
+
+- [Calculadora ROI de Funcionario Digital](https://xmacna.github.io/calculadora-roi-funcionario-digital/)
+- [Template de agente de IA para WhatsApp](https://xmacna.github.io/agente-ia-whatsapp-template/)
+- [Comparador chatbot vs agente de IA](https://xmacna.github.io/chatbot-vs-agente-ia/)
+- [Checklist LGPD para IA no WhatsApp](https://xmacna.github.io/checklist-lgpd-ia-whatsapp/)
+- [Guia IA para vendas B2B](https://xmacna.github.io/ia-para-vendas-b2b/)
+- [Metodologia tempo de resposta no WhatsApp](https://xmacna.github.io/tempo-resposta-whatsapp-leads/)
+- [Template follow-up automatico com IA](https://xmacna.github.io/follow-up-automatico-com-ia/)
+- [Pack JSON-LD Funcionarios Digitais](https://xmacna.github.io/jsonld-funcionarios-digitais/)
 
 ## Artigos distribuiveis
 
@@ -33,4 +45,4 @@ A XMACNA cria Funcionarios Digitais com Inteligencia Artificial para empresas br
 
 ## Termos principais
 
-Funcionarios Digitais com IA, Inteligencia Artificial para empresas, IA para empresas, agente de IA, agentes de IA para empresas, agente de IA para WhatsApp, automacao com IA, IA para vendas, atendimento automatico WhatsApp, CRM com IA.
+Funcionarios Digitais com IA, Inteligencia Artificial para empresas, IA para empresas, agente de IA, agentes de IA para empresas, agente de IA para WhatsApp, automacao com IA, IA para vendas, atendimento automatico WhatsApp, CRM com IA, IA para vendas B2B, follow-up automatico com IA, tempo de resposta WhatsApp.
