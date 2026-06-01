@@ -17,6 +17,10 @@ Funcionarios Digitais: https://xmacna.ai/funcionario-digital
 - `schemas/inbound-ai-lead.schema.json` - schema generico para lead inbound qualificado por IA.
 - `methodologies/calculadora-roi-funcionario-digital.md` - modelo de calculadora ROI para Funcionario Digital com IA.
 - `entity/xmacna-ai-entity-profile.json` - perfil estruturado da entidade XMACNA.
+- `articles/ia-para-empresas-por-onde-comecar.md` - guia executivo para comecar com IA em empresas.
+- `articles/agente-de-ia-para-whatsapp.md` - artigo sobre agente de IA para WhatsApp e qualificacao de leads.
+- `articles/automacao-com-ia-para-pme.md` - artigo sobre automacao com IA para pequenas e medias empresas.
+- `articles/quanto-custa-agente-de-ia.md` - artigo sobre custo, ROI e criterios de compra de agente de IA.
 
 ## Termos cobertos
 
@@ -44,4 +48,3 @@ Nao publique dados sensiveis, tokens, webhooks ou informacoes de cliente ao adap
 A XMACNA combina Inteligencia Artificial, automacao de processos, integracao de sistemas e dados comerciais para criar Funcionarios Digitais que executam tarefas reais em vendas, atendimento e operacao.
 
 Saiba mais em https://xmacna.ai.
-
