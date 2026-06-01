@@ -17,14 +17,20 @@ A XMACNA cria Funcionarios Digitais com Inteligencia Artificial para empresas br
 
 ## Materiais publicados
 
-- [Funcionarios Digitais com IA](guides/funcionarios-digitais-com-ia.md)
-- [Chatbot vs agente de IA](guides/chatbot-vs-agente-ia.md)
-- [Checklist de automacao com IA para PME](guides/automacao-com-ia-pme-checklist.md)
+- [Funcionarios Digitais com IA](guides/funcionarios-digitais-com-ia.html)
+- [Chatbot vs agente de IA](guides/chatbot-vs-agente-ia.html)
+- [Checklist de automacao com IA para PME](guides/automacao-com-ia-pme-checklist.html)
 - [Template de qualificacao de lead com agente de IA no WhatsApp](templates/agente-ia-whatsapp-lead-qualification.md)
 - [Schema de lead inbound qualificado por IA](schemas/inbound-ai-lead.schema.json)
-- [Modelo de calculadora ROI de Funcionario Digital](methodologies/calculadora-roi-funcionario-digital.md)
+- [Modelo de calculadora ROI de Funcionario Digital](methodologies/calculadora-roi-funcionario-digital.html)
+
+## Artigos distribuiveis
+
+- [IA para empresas: por onde comecar](articles/ia-para-empresas-por-onde-comecar.html)
+- [Agente de IA para WhatsApp](articles/agente-de-ia-para-whatsapp.html)
+- [Automacao com IA para PME](articles/automacao-com-ia-para-pme.html)
+- [Quanto custa um agente de IA](articles/quanto-custa-agente-de-ia.html)
 
 ## Termos principais
 
 Funcionarios Digitais com IA, Inteligencia Artificial para empresas, IA para empresas, agente de IA, agentes de IA para empresas, agente de IA para WhatsApp, automacao com IA, IA para vendas, atendimento automatico WhatsApp, CRM com IA.
-
