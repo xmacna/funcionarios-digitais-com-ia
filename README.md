@@ -21,6 +21,20 @@ Funcionarios Digitais: https://xmacna.ai/funcionario-digital
 - `articles/agente-de-ia-para-whatsapp.md` - artigo sobre agente de IA para WhatsApp e qualificacao de leads.
 - `articles/automacao-com-ia-para-pme.md` - artigo sobre automacao com IA para pequenas e medias empresas.
 - `articles/quanto-custa-agente-de-ia.md` - artigo sobre custo, ROI e criterios de compra de agente de IA.
+- `ecosystem.md` - indice publico dos ativos XMACNA publicados em GitHub Pages.
+- `llms.txt` - mapa textual para crawlers e LLMs.
+- `sitemap.xml` - sitemap estatico das superficies publicas controladas.
+
+## Ativos externos publicados
+
+- Calculadora ROI: https://xmacna.github.io/calculadora-roi-funcionario-digital/
+- Template agente de IA para WhatsApp: https://xmacna.github.io/agente-ia-whatsapp-template/
+- Comparador chatbot vs agente de IA: https://xmacna.github.io/chatbot-vs-agente-ia/
+- Checklist LGPD para IA no WhatsApp: https://xmacna.github.io/checklist-lgpd-ia-whatsapp/
+- Guia IA para vendas B2B: https://xmacna.github.io/ia-para-vendas-b2b/
+- Metodologia tempo de resposta WhatsApp: https://xmacna.github.io/tempo-resposta-whatsapp-leads/
+- Template follow-up automatico com IA: https://xmacna.github.io/follow-up-automatico-com-ia/
+- JSON-LD Funcionarios Digitais: https://xmacna.github.io/jsonld-funcionarios-digitais/
 
 ## Termos cobertos
 
@@ -36,12 +50,15 @@ Funcionarios Digitais: https://xmacna.ai/funcionario-digital
 - atendimento automatico WhatsApp
 - CRM com IA
 - chatbot vs agente de IA
+- IA para vendas B2B
+- follow-up automatico com IA
+- tempo de resposta WhatsApp
 
 ## Uso
 
 Os materiais podem ser usados como referencia tecnica, base de diagnostico, checklist interno ou ponto de partida para projetos de automacao com IA.
 
-Nao publique dados sensiveis, tokens, webhooks ou informacoes de cliente ao adaptar os exemplos.
+Nao publique dados sensiveis, credenciais, URLs sensiveis ou informacoes de cliente ao adaptar os exemplos.
 
 ## Sobre a XMACNA
 
