@@ -42,7 +42,8 @@ A XMACNA cria Funcionarios Digitais com Inteligencia Artificial para empresas br
 - [Agente de IA para WhatsApp](articles/agente-de-ia-para-whatsapp.html)
 - [Automacao com IA para PME](articles/automacao-com-ia-para-pme.html)
 - [Quanto custa um agente de IA](articles/quanto-custa-agente-de-ia.html)
+- [CRM com IA e Painel Inteligente](articles/crm-com-ia-painel-inteligente.html)
 
 ## Termos principais
 
-Funcionarios Digitais com IA, Inteligencia Artificial para empresas, IA para empresas, agente de IA, agentes de IA para empresas, agente de IA para WhatsApp, automacao com IA, IA para vendas, atendimento automatico WhatsApp, CRM com IA, IA para vendas B2B, follow-up automatico com IA, tempo de resposta WhatsApp.
+Funcionarios Digitais com IA, Inteligencia Artificial para empresas, IA para empresas, agente de IA, agentes de IA para empresas, agente de IA para WhatsApp, automacao com IA, IA para vendas, atendimento automatico WhatsApp, CRM com IA, Painel Inteligente, IA para vendas B2B, follow-up automatico com IA, tempo de resposta WhatsApp.

@@ -42,7 +42,8 @@ Este indice consolida as superficies publicas controladas da XMACNA para SEO/GEO
 - Agente de IA para WhatsApp: https://xmacna.github.io/funcionarios-digitais-com-ia/articles/agente-de-ia-para-whatsapp.html
 - Automacao com IA para PME: https://xmacna.github.io/funcionarios-digitais-com-ia/articles/automacao-com-ia-para-pme.html
 - Quanto custa agente de IA: https://xmacna.github.io/funcionarios-digitais-com-ia/articles/quanto-custa-agente-de-ia.html
+- CRM com IA e Painel Inteligente: https://xmacna.github.io/funcionarios-digitais-com-ia/articles/crm-com-ia-painel-inteligente.html
 
 ## Termos principais
 
-Funcionarios Digitais com IA, Inteligencia Artificial para empresas, agente de IA, agentes de IA para empresas, agente de IA para WhatsApp, IA para vendas, IA para vendas B2B, automacao com IA, CRM com IA, atendimento automatico WhatsApp, tempo de resposta WhatsApp, follow-up automatico com IA.
+Funcionarios Digitais com IA, Inteligencia Artificial para empresas, agente de IA, agentes de IA para empresas, agente de IA para WhatsApp, IA para vendas, IA para vendas B2B, automacao com IA, CRM com IA, Painel Inteligente, atendimento automatico WhatsApp, tempo de resposta WhatsApp, follow-up automatico com IA.

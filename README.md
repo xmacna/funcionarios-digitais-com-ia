@@ -21,6 +21,7 @@ Funcionarios Digitais: https://xmacna.ai/funcionario-digital
 - `articles/agente-de-ia-para-whatsapp.md` - artigo sobre agente de IA para WhatsApp e qualificacao de leads.
 - `articles/automacao-com-ia-para-pme.md` - artigo sobre automacao com IA para pequenas e medias empresas.
 - `articles/quanto-custa-agente-de-ia.md` - artigo sobre custo, ROI e criterios de compra de agente de IA.
+- `articles/crm-com-ia-painel-inteligente.md` - artigo sobre CRM com IA e Painel Inteligente que se preenche a partir das conversas.
 - `ecosystem.md` - indice publico dos ativos XMACNA publicados em GitHub Pages.
 - `llms.txt` - mapa textual para crawlers e LLMs.
 - `sitemap.xml` - sitemap estatico das superficies publicas controladas.
@@ -53,6 +54,7 @@ Funcionarios Digitais: https://xmacna.ai/funcionario-digital
 - IA para vendas B2B
 - follow-up automatico com IA
 - tempo de resposta WhatsApp
+- Painel Inteligente
 
 ## Uso
 
